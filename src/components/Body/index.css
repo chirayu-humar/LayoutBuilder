@@ -1,0 +1,22 @@
+/* Write your CSS here */
+.leftNavbar {
+  display: flex;
+  flex-direction: column;
+  background-color: orange;
+  flex-grow: 1;
+  margin: 20px;
+}
+.content {
+  display: flex;
+  flex-direction: column;
+  background-color: brown;
+  flex-grow: 1;
+  margin: 20px;
+}
+.innerMiddle {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: stretch;
+  flex-grow: 1;
+}

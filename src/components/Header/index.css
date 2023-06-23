@@ -1,0 +1,14 @@
+/* Write your CSS here */
+.leftNavbar {
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+  margin: 20px;
+}
+.innerDiv1 {
+  width: auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}

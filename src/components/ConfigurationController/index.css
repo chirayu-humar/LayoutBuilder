@@ -1,0 +1,13 @@
+/* Write your CSS here */
+.controllerOuter {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  background-color: #475569;
+  padding: 30px;
+  color: #f1f5f9;
+}
+.containerDivs {
+  display: flex;
+  flex-direction: row;
+}
